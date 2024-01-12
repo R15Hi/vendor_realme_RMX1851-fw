@@ -1,0 +1,2 @@
+recovery.img filter=lfs diff=lfs merge=lfs -text
+modem.img filter=lfs diff=lfs merge=lfs -text
